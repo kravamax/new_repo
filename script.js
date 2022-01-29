@@ -4,3 +4,5 @@ const var1 = "variable";
 console.log(var1);
 
 const varForReadmeBranch = [];
+
+console.log("commit for Github");
